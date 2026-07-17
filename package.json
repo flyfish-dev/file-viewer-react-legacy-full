@@ -1,6 +1,6 @@
 {
   "name": "@file-viewer/react-legacy-full",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "private": false,
   "type": "module",
   "description": "Full React 16.8/17 package with preset-all; Vite publishes deployment-base/file-viewer assets, and other bundlers use the included same-version copy CLI.",
@@ -63,9 +63,9 @@
     "react": ">=16.8 <18"
   },
   "dependencies": {
-    "@file-viewer/preset-all": "2.2.1",
-    "@file-viewer/react-legacy": "2.2.1",
-    "file-viewer-copy-assets": "2.2.1"
+    "@file-viewer/preset-all": "2.2.2",
+    "@file-viewer/react-legacy": "2.2.2",
+    "file-viewer-copy-assets": "2.2.2"
   },
   "devDependencies": {
     "@types/react": "^17.0.0",
