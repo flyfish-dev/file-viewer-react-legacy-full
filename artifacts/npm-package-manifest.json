@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "mode": "runtime-only",
+  "sourceCommit": "d20dc22c19a9101647a8198f46dc4037277da7cc",
+  "aggregateRelease": {
+    "repository": "flyfish-dev/file-viewer",
+    "tag": "v3.2.0",
+    "commit": "8cf8e2795300ada3bb27a090c786bdf2d0211ae4"
+  },
+  "package": {
+    "packageName": "@file-viewer/react-legacy-full",
+    "version": "3.2.0",
+    "tarball": "file-viewer-react-legacy-full-3.2.0.tgz",
+    "tarballSize": 5202,
+    "sha256": "a0381d90106551bb22b9d6305c0296e9fbc874eb1e7618025c070668c5961340",
+    "fileCount": 7,
+    "integrity": "sha512-sz49Ff2XyTS1io1077DLOgp9QN/oj8RU3xn9zUOGja0XguGZALvkk8fceEimT1R+iesrfxKQHAsU97Sm1H0iEA==",
+    "license": "Apache-2.0",
+    "releaseArtifact": {
+      "includeTarball": true
+    }
+  }
+}
